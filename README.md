@@ -2,7 +2,7 @@
 Hi, I'm Aritra Ghorai 👋<br> <br>I'm an Aspiring Full-Stack Web Developer currently learning and building projects with modern web technologies.<br> <br>I enjoy turning ideas into responsive, interactive, and user-friendly web applications. I'm continuously improving my programming, problem-solving, and development skills through hands-on projects and Data Structures & Algorithms practice.
 
 
-## ## 🌐 Socials:
+## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aritra.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aritraghorai-44396638/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aritraghorai879@gmail.com) 
 
 # 💻 Tech Stack:
